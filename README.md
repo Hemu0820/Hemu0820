@@ -4,10 +4,11 @@
 - 🌱 I’m currently learning Retrieval-Augmented Generation (RAG), vector databases, and Kubernetes
 - 💕 I’m looking to collaborate on AI-powered agent projects and cloud-native data pipelines
 - 📫 How to reach me:  
-  - ✉️ [hbasavar@buffalo.edu](mailto:hbasavar@buffalo.edu)  
+  - ✉️ [hbasavar@buffalo.edu/hemus717@gmail.com](mailto:hbasavar@buffalo.edu/hemus717@gmail.com)  
   - 🔗 [LinkedIn](https://www.linkedin.com/in/hemanthshrinivasan)  
   - 🌐 [Portfolio](https://hemu0820.github.io/B-Hemanth-Shrinivasan/)  
   - 🐙 [GitHub](https://github.com/Hemu0820)
+  - 🏆 [LeetCode](https://leetcode.com/u/Hemanth_717/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was a gold-medalist in Mechanical Engineering and co-founded an AI chatbot startup that grew its user base by 200%.
 
