@@ -10,7 +10,7 @@
   - 🐙 [GitHub](https://github.com/Hemu0820)
   - 🏆 [LeetCode](https://leetcode.com/u/Hemanth_717/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I was a gold-medalist in Mechanical Engineering and co-founded an AI chatbot startup that grew its user base by 200%.
+
 
 <!---
 Hemu0820/Hemu0820 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
